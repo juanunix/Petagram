@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="nombre">Pedro Jimenez</string>
+    <string name="email">perajim@gmail.com</string>
+    <string name="telefono">87987897</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
 </resources>
